@@ -5,6 +5,7 @@
 # DiscordEM 0.0.1
 **DiscordEM** is a simple asynchronous parser written in Python, it uses a direct connection via sockets, so it is very fast and does not stop the main thread, which allows you to handle a large number of requests at the same time.
 
+[![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 ## Warnings before use
