@@ -1,0 +1,4 @@
+websockets==11.0.3
+aiohttp==3.8.4
+fake-useragent==1.1.1
+httpagentparser==1.9.5
