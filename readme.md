@@ -8,11 +8,6 @@
 [![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
-## Warning
-
-This code is intended for educational and purely personal use, and this code is still under development, so it may contain bugs or errors that can lead to account blocking, use it at your own risk.
-
-
 ## Installing
 
 All dependencies are recommended to be installed only in a virtual environment, more details: [Link](https://docs.python.org/3/library/venv.html)
