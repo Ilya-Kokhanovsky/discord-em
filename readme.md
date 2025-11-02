@@ -1,12 +1,5 @@
-
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
-
-
 # DiscordEM 0.0.1 (alpha)
 **DiscordEM** is a simple asynchronous parser written in Python, it uses a direct connection via sockets, so it is very fast and does not stop the main thread, which allows you to handle a large number of requests at the same time.
-
-[![Made in Ukraine](https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7)](https://stand-with-ukraine.pp.ua)
-[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 ## Installing
 
@@ -61,4 +54,5 @@ if __name__ == "__main__":
 
 [(MIT)](https://choosealicense.com/licenses/mit/)
 We invite you to cooperate and improve this parser together!
+
 
